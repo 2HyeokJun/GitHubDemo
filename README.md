@@ -1,3 +1,3 @@
 # GitHubDemo
 
-GitHub 수업 Demo
+GitHub 수업
